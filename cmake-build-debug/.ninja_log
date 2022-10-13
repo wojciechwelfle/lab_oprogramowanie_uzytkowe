@@ -1,3 +1,8 @@
 # ninja log v5
+<<<<<<< HEAD
 1	354	6873668998594305	CMakeFiles/gitRepo.dir/main.cpp.obj	a49fd4491fc5a978
 356	494	6873668999910986	gitRepo.exe	30f5dd817f970ce2
+=======
+0	313	6873672488586769	CMakeFiles/gitRepo.dir/main.cpp.obj	a49fd4491fc5a978
+315	402	6873672489424498	gitRepo.exe	30f5dd817f970ce2
+>>>>>>> 02
